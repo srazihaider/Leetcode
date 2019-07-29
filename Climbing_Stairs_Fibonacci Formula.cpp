@@ -1,3 +1,6 @@
+// Golden number fi = 1+ sqrt(5)/2
+// Fibonacci Formula  1/sqrt(5) * ( fi^n - (1 -fi)^n)
+
 class Solution {
 public:
     
